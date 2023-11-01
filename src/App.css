@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: grid;
+  place-content: center;
+  background-color: rgb(38, 206, 206);
+  height: 100vh;
+}
+
+cursor:hover {
+  cursor: pointer;
+}
