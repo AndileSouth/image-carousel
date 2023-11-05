@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/image-carousel/static/css/main.26872b6e.css",
-    "main.js": "/image-carousel/static/js/main.e67b9819.js",
+    "main.js": "/image-carousel/static/js/main.81f824bb.js",
     "static/media/buildings-1850129_1920.jpg": "/image-carousel/static/media/buildings-1850129_1920.a2fcc18d64da9e5d1fb0.jpg",
     "static/media/pedestrians-1853552_1280.jpg": "/image-carousel/static/media/pedestrians-1853552_1280.f851f080c8967dba242e.jpg",
     "static/media/architecture-1868667_1280.jpg": "/image-carousel/static/media/architecture-1868667_1280.e2c6965e0fadc3816bd4.jpg",
     "index.html": "/image-carousel/index.html",
     "main.26872b6e.css.map": "/image-carousel/static/css/main.26872b6e.css.map",
-    "main.e67b9819.js.map": "/image-carousel/static/js/main.e67b9819.js.map"
+    "main.81f824bb.js.map": "/image-carousel/static/js/main.81f824bb.js.map"
   },
   "entrypoints": [
     "static/css/main.26872b6e.css",
-    "static/js/main.e67b9819.js"
+    "static/js/main.81f824bb.js"
   ]
 }
