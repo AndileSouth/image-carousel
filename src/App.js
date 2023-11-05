@@ -6,10 +6,11 @@ import { CAROUSEL } from './components/carousel';
 function App() {
   return (
     <div className="App">
+      <CAROUSEL/>
      
-      <Routes>
+      {/* <Routes>
         <Route exact path="/" element={<CAROUSEL/>}/>
-      </Routes>
+      </Routes> */}
     </div>
   );
 }
